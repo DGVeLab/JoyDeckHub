@@ -1,0 +1,7 @@
+# JoyDeckHub Update Information
+# This file is read automatically by JoyDeck to check for updates.
+# Do not rename this file.
+
+version=1.17
+url=https://github.com/DGVeLab/JoyDeckHub/releases/latest
+notes="".
